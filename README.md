@@ -25,6 +25,8 @@ The project uses three key datasets:
 2. **🗂️ sales_by_makers.csv:** EV sales data by manufacturer, categorized by vehicle type.
 3. **🗂️ dim_date.csv:** Time-series data to support fiscal year and quarterly analysis.
 
+![AtliQmotors  relation](https://github.com/user-attachments/assets/3b199c86-2f4e-4e42-8189-b7215c310e83)
+
 ---
 
 ## 🛠️ Key Skills Utilized
@@ -52,10 +54,4 @@ The project uses three key datasets:
 - **🚀 Fastest Growing Companies:** PURE EV, REVOLT, Tata Motors, TVS, and Volvo Auto India.
 - **📊 Sales Trends:** Identified peak sales months and the CAGR for key players and regions.
 
----
-
-## 🚀 How to Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ev-market-analysis-india.git
+![AtliQmotors dashbord](https://github.com/user-attachments/assets/7b18aeee-8848-4648-8000-cab6315d40ec)
